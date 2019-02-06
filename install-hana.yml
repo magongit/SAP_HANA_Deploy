@@ -1,5 +1,5 @@
 - name: Install SAP HANA
-  hosts: hana1.example.com
+  hosts: all
   become: yes
 
   vars:
